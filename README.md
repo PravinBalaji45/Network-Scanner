@@ -8,3 +8,9 @@ The concept of the network scanner is based on the ARP(Address resolution protoc
 The network scanner will send the ARP request indicating who has some specific IP address, let's say "192.168.1.1", the owner of that IP address ( the target ) will automatically respond saying that he is "192.168.1.1", with that response, the MAC address will also be included in the packet, this allows us to successfully retrieve all network users' IP and MAC addresses simultaneously when we send a broadcast packet ( sending a packet to all the devices in the network ).
 
 ![hacker](https://user-images.githubusercontent.com/94939477/146815700-f73be174-d1db-4c1c-b9c1-e945c5c559fb.jpg)
+
+Here is the output result of my network.
+
+![building-network-scanner-using-scapy](https://user-images.githubusercontent.com/94939477/146821493-0d4ca5b9-0275-49ed-aa60-4ed25eac6c71.jpg)
+
+
