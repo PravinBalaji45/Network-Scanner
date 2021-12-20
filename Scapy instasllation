@@ -1,0 +1,7 @@
+A) Python module Use pip:
+   cmd : $ pip install scapy
+
+B) If you always want the latest version with all new features and bugfixes, use Scapy’s Git repository:
+   1)Install the Git version control system.
+   2)Check out a clone of Scapy’s repository:
+   cmd : $ git clone https://github.com/secdev/scapy.git
